@@ -1,16 +1,11 @@
 # starbuck_home
 
-A new Flutter project.
+Motion lab slicing project
+ - Start implementing reusable component
+ - Start using google font
+ - Implementing bottom navbar
+ - Implementing carousel using carousel_slider lib, but facing performance issue
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Result
+![Screenshot_2024-01-16-20-02-13-10](https://github.com/Wisnusat/starbuck_home/assets/63875662/dc91b59e-cf1d-4ad9-9f98-a6ed02923937)
+![Screenshot_2024-01-16-20-02-23-18](https://github.com/Wisnusat/starbuck_home/assets/63875662/241ed47f-2dd0-485b-9907-83e5655c710c)
